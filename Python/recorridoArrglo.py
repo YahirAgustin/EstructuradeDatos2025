@@ -14,4 +14,5 @@ for elementm,item in enumerate(Array):
     
     print (item)  #Imprimir Contenido de Posicion
     print(elementm)  #Imprimir Posicion
+
     
