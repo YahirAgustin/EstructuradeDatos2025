@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\bin\Debug\net8.0\InserccionElementos.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\bin\Debug\net8.0\InserccionElementos.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\bin\Debug\net8.0\InserccionElementos.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\bin\Debug\net8.0\InserccionElementos.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\bin\Debug\net8.0\InserccionElementos.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\refint\InserccionElementos.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\InserccionElementos.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\InserccionElementos\InserccionElementos\obj\Debug\net8.0\ref\InserccionElementos.dll
