@@ -24,4 +24,5 @@ for element,item in enumerate(Array):
 print ("Arreglo Despues de Insertar Elemento")
 
 for item in Array:
+
     print(item)
