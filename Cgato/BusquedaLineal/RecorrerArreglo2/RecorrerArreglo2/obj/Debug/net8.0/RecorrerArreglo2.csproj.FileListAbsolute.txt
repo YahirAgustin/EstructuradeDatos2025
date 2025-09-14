@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\bin\Debug\net8.0\RecorrerArreglo2.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\bin\Debug\net8.0\RecorrerArreglo2.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\bin\Debug\net8.0\RecorrerArreglo2.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\bin\Debug\net8.0\RecorrerArreglo2.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\bin\Debug\net8.0\RecorrerArreglo2.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\refint\RecorrerArreglo2.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\RecorrerArreglo2.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglo2\RecorrerArreglo2\obj\Debug\net8.0\ref\RecorrerArreglo2.dll
