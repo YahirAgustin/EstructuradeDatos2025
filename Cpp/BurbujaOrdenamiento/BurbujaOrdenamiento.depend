@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757828347 source:c:\ingenieriasoftware2025\estructuradatos\1erparcial\cpp\burbujaordenamiento\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
