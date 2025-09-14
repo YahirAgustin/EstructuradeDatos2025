@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\bin\Debug\net8.0\Calculadoraa.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\bin\Debug\net8.0\Calculadoraa.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\bin\Debug\net8.0\Calculadoraa.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\bin\Debug\net8.0\Calculadoraa.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\bin\Debug\net8.0\Calculadoraa.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\refint\Calculadoraa.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\Calculadoraa.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\Calculadoraa\Calculadoraa\obj\Debug\net8.0\ref\Calculadoraa.dll
