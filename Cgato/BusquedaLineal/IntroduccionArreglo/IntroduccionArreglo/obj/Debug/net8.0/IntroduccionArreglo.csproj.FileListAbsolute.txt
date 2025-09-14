@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\bin\Debug\net8.0\IntroduccionArreglo.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\bin\Debug\net8.0\IntroduccionArreglo.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\bin\Debug\net8.0\IntroduccionArreglo.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\bin\Debug\net8.0\IntroduccionArreglo.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\bin\Debug\net8.0\IntroduccionArreglo.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\refint\IntroduccionArreglo.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\IntroduccionArreglo.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\IntroduccionArreglo\IntroduccionArreglo\obj\Debug\net8.0\ref\IntroduccionArreglo.dll
