@@ -1,4 +1,4 @@
-
+//
 // Declarar la matriz
 let Arreglo = [
     [1, 2, 3],
@@ -12,3 +12,4 @@ for (let i = 0; i < 3; i++) {
         console.log(Arreglo[i][j] + " "); // imprime en la misma línea
     }
 }
+
