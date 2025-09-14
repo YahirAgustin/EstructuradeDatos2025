@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\bin\Debug\net8.0\RecorrerArreglosFilas.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\bin\Debug\net8.0\RecorrerArreglosFilas.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\bin\Debug\net8.0\RecorrerArreglosFilas.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\bin\Debug\net8.0\RecorrerArreglosFilas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\bin\Debug\net8.0\RecorrerArreglosFilas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\refint\RecorrerArreglosFilas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\RecorrerArreglosFilas.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\RecorrerArreglosFilas\RecorrerArreglosFilas\obj\Debug\net8.0\ref\RecorrerArreglosFilas.dll
