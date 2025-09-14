@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\refint\BusquedaLineal.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\ref\BusquedaLineal.dll
