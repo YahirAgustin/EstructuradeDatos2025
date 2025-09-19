@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\net8.0\OrdenamientoBurbuja.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\net8.0\OrdenamientoBurbuja.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\net8.0\OrdenamientoBurbuja.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\net8.0\OrdenamientoBurbuja.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\net8.0\OrdenamientoBurbuja.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\refint\OrdenamientoBurbuja.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\OrdenamientoBurbuja.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\net8.0\ref\OrdenamientoBurbuja.dll
