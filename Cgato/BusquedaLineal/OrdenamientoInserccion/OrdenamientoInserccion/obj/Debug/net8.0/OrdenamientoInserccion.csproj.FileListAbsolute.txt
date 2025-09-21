@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\bin\Debug\net8.0\OrdenamientoInserccion.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\bin\Debug\net8.0\OrdenamientoInserccion.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\bin\Debug\net8.0\OrdenamientoInserccion.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\bin\Debug\net8.0\OrdenamientoInserccion.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\bin\Debug\net8.0\OrdenamientoInserccion.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\refint\OrdenamientoInserccion.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\OrdenamientoInserccion.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\OrdenamientoInserccion\OrdenamientoInserccion\obj\Debug\net8.0\ref\OrdenamientoInserccion.dll
