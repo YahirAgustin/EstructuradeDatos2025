@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758490205 source:c:\ingenieriasoftware2025\estructuradatos\1erparcial\cpp\ordenamientoporseleccion\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
