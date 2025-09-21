@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758465841 source:c:\ingenieriasoftware2025\programaciondinamica\algoritmoinserccion\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
