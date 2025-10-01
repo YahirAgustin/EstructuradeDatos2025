@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\bin\Debug\net8.0\mergeSort.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\bin\Debug\net8.0\mergeSort.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\bin\Debug\net8.0\mergeSort.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\bin\Debug\net8.0\mergeSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\bin\Debug\net8.0\mergeSort.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\refint\mergeSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\mergeSort.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\mergeSort\mergeSort\obj\Debug\net8.0\ref\mergeSort.dll
