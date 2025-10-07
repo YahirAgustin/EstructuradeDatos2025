@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1759648384 source:c:\ingenieriasoftware2025\batallanavalfinal\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<chrono>
+	<thread>
+
