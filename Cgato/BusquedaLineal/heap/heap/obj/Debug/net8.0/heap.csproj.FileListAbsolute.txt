@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\bin\Debug\net8.0\heap.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\bin\Debug\net8.0\heap.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\bin\Debug\net8.0\heap.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\bin\Debug\net8.0\heap.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\bin\Debug\net8.0\heap.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\refint\heap.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\heap.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\heap\heap\obj\Debug\net8.0\ref\heap.dll
