@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\bin\Debug\net8.0\bucket.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\bin\Debug\net8.0\bucket.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\bin\Debug\net8.0\bucket.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\bin\Debug\net8.0\bucket.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\bin\Debug\net8.0\bucket.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\refint\bucket.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\bucket.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\bucket\bucket\obj\Debug\net8.0\ref\bucket.dll
