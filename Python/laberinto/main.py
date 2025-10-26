@@ -24,7 +24,9 @@ GRIS = (40, 40, 40)
 img_camino = pygame.transform.scale(pygame.image.load("Img/suelo.png"),(TAM_CELDA,TAM_CELDA))
 img_pared = pygame.transform.scale(pygame.image.load("Img/pared.png"),(TAM_CELDA,TAM_CELDA))
 img_jugador = pygame.transform.scale(pygame.image.load("Img/jugador.png"),(TAM_CELDA,TAM_CELDA))
-
+img_trampa = pygame.transform.scale(pygame.image.load("Img/trampa.png"),(TAM_CELDA,TAM_CELDA))
+img_llave = pygame.transform.scale(pygame.image.load("Img/llave.png"),(TAM_CELDA,TAM_CELDA))
+img_salida = pygame.transform.scale(pygame.image.load("Img/salida.png"),(TAM_CELDA,TAM_CELDA))
 # Tipo de celdas 
 CAMINO = ' '
 PARED = '1'
@@ -40,6 +42,11 @@ pygame.display.set_caption("Escapa del Laberinto")
 #Fuente de mensajes
 fuente = pygame.font.Font(None, 28)
 fuente_grande = pygame.font.Font(None, 68)
+
+#incializar para no visibilidad
+def inicializar_visibilidad():
+    return [[False for _ in range(TAM_LAB)] for _ in range(TAM_LAB)]
+
 
 # Generar el laberinto
 def generar_laberinto():
@@ -92,24 +99,28 @@ def generar_laberinto():
     return lab
 
 # Imprimir tablero
-def dibujar_laberinto(lab, jugador):
+def dibujar_laberinto(lab, jugador, visitadas):
     
     for y in range(TAM_LAB):
         for x in range(TAM_LAB):
             celda = lab[y][x]
             pos = (x*TAM_CELDA,y*TAM_CELDA+60)
+            if not visitadas[y][x]:
+                pygame.draw.rect(ventana, NEGRO, (x*TAM_CELDA, y*TAM_CELDA + 60, TAM_CELDA, TAM_CELDA))
+                continue  # Saltar dibujo de celda real si no ha sido visitada
             color = BLANCO
+            
             if celda == PARED:
                 color = NEGRO
                 ventana.blit(img_pared,pos)
             
             elif celda == LLAVE:
                 color = AMARILLO
-                pygame.draw.rect(ventana, color, (x * TAM_CELDA, y * TAM_CELDA + 60, TAM_CELDA, TAM_CELDA))
+                ventana.blit(img_llave,pos)
             
             elif celda == TRAMPA:
                 color = ROJO
-                pygame.draw.rect(ventana, color, (x * TAM_CELDA, y * TAM_CELDA + 60, TAM_CELDA, TAM_CELDA))
+                ventana.blit(img_trampa,pos)
             
             elif celda == PUERTA:
                 color = AZUL
@@ -117,7 +128,7 @@ def dibujar_laberinto(lab, jugador):
             
             elif celda == SALIDA:
                 color = VERDE
-                pygame.draw.rect(ventana, color, (x * TAM_CELDA, y * TAM_CELDA + 60, TAM_CELDA, TAM_CELDA))
+                ventana.blit(img_salida,pos)
             
             else:
                 ventana.blit(img_camino,pos)    
@@ -133,12 +144,13 @@ def mostrar_texto(texto, x, y, color=BLANCO, fuente_usar=fuente):
     ventana.blit(superficie, (x, y))
 
 # Pantalla final de ganar o perder
-def pantalla_final(mensaje, color):
+def pantalla_final(mensaje, color, puntuacion):
     
     ejecutando = True
     while ejecutando:
         ventana.fill(NEGRO)
         mostrar_texto(mensaje, ANCHO // 2 - 200, ALTO // 2 - 60, color, fuente_grande)
+        mostrar_texto(f"Tu puntuacion final: {puntuacion} puntos", ANCHO // 2 - 170, ALTO // 2 - 10, BLANCO)
         mostrar_texto("      Presiona R para reiniciar o Q para salir", ANCHO // 2 - 200, ALTO // 2 + 10, BLANCO)
         pygame.display.flip()
 
@@ -159,8 +171,13 @@ def main():
     
     vidas = VIDAS_INICIALES
     llaves = 0
+    puntuacion = 0
+
     jugador = [1, 1]
     lab = generar_laberinto()
+    visitadas = inicializar_visibilidad()
+    visitadas[jugador[1]][jugador[0]] = True  # Marca la posición inicial como visible
+
     clock = pygame.time.Clock()
     mensaje = "Usa las flechitas "
 
@@ -190,12 +207,18 @@ def main():
                         continue
                     elif celda == TRAMPA:
                         vidas -= 1
+                        if puntuacion > 0:
+                            puntuacion -= 20
+                        else:
+                            puntuacion = 0;    
                         mensaje = "¡Caiste en una trampa!"
                         if vidas == 0:
-                            pantalla_final("  !HAS PERDIDO!", ROJO)
+                            pantalla_final("  ¡HAS PERDIDO!", ROJO, puntuacion)
+
                             return
                     elif celda == LLAVE:
                         llaves += 1
+                        puntuacion += 50
                         lab[nuevo_y][nuevo_x] = CAMINO
                         mensaje = "Encontraste una llave!"
                     elif celda == PUERTA:
@@ -207,17 +230,27 @@ def main():
                             mensaje = "Necesitas una llave!"
                             continue
                     elif celda == SALIDA:
-                        pantalla_final("     ¡GANASTE!", VERDE)
-                        return
+                        if llaves == 3:
+                            puntuacion += 200
+                            pantalla_final("     ¡GANASTE!", VERDE, puntuacion)
+                            return
                     else:
                         mensaje = ""
                     jugador = [nuevo_x, nuevo_y]
+                    # Marcar la nueva celda y las adyacentes como visibles
+                    for dy in [-1, 0, 1]:
+                        for dx in [-1, 0, 1]:
+                            ny, nx = nuevo_y + dy, nuevo_x + dx
+                            if 0 <= ny < TAM_LAB and 0 <= nx < TAM_LAB:
+                                visitadas[ny][nx] = True
+
 
         ventana.fill(GRIS)
         mostrar_texto(f"Vidas: {vidas}", 20, 20, ROJO)
         mostrar_texto(f"Llaves: {llaves}", 150, 20, AMARILLO)
+        mostrar_texto(f"Puntos: {puntuacion}", 300, 20, VERDE)
         mostrar_texto(mensaje, 275, 20, BLANCO)
-        dibujar_laberinto(lab, jugador)
+        dibujar_laberinto(lab, jugador, visitadas)
         pygame.display.flip()
         clock.tick(10)
 
