@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\bin\Debug\net8.0\radixSort.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\bin\Debug\net8.0\radixSort.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\bin\Debug\net8.0\radixSort.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\bin\Debug\net8.0\radixSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\bin\Debug\net8.0\radixSort.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\refint\radixSort.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\radixSort.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\radixSort\radixSort\obj\Debug\net8.0\ref\radixSort.dll
