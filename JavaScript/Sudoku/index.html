@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sudoku</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sudoku — 25 niveles</h1>
+    <div id="player-name" style="color: var(--muted)"></div>
+  </header>
+
+  <div class="container">
+    <div class="board-wrap">
+      <div class="panel top-panel">
+        <div>
+          <div class="label-small">Nivel</div>
+          <div id="level-label" class="level-label">1 — Muy fácil</div>
+        </div>
+        <div class="stats">
+          <div class="stat">Vidas: <span id="lives">3</span></div>
+          <div class="stat">Errores: <span id="mistakes">0</span></div>
+          <div class="stat">Tiempo: <span id="timer">00:00</span></div>
+        </div>
+      </div>
+
+      <div class="sudoku-board" id="board"></div>
+
+      <div class="bottom-buttons">
+        <div class="buttons">
+          <button id="check-btn">Comprobar</button>
+          <button id="restart-btn" class="ghost">Reiniciar nivel</button>
+          <button id="next-btn" class="ghost" style="display: none">Siguiente nivel</button>
+        </div>
+        <button id="solve-btn" class="ghost">Mostrar solución</button>
+      </div>
+    </div>
+
+    <div class="right-column">
+      <div class="panel">
+        <div class="panel-header">
+          <strong>Controles</strong>
+          <span class="difficulty" id="diff-tag">Muy fácil</span>
+        </div>
+        <div class="panel-content">
+          <button id="num-erase" class="ghost">Borrar</button>
+          <span class="hint-text">Teclado: usa 1-9 o haz clic</span>
+        </div>
+      </div>
+
+      <div class="panel">
+        <strong>Ranking</strong>
+        <div class="hint-text">
+          Ordenado por nivel descendente, luego por tiempo ascendente
+        </div>
+        <div class="ranking">
+          <table id="ranking-table">
+            <thead>
+              <tr>
+                <th>Nombre</th>
+                <th>Nivel</th>
+                <th>Tiempo</th>
+                <th>Fecha</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="panel">
+        <strong>Progreso</strong>
+        <div class="hint-text">
+          25 niveles: 5 muy fáciles, 5 fáciles, 5 medios, 5 difíciles, 5 muy difíciles.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    Guardado localmente en tu navegador. Usa el botón "Mostrar solución" solo si te rindes 
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
