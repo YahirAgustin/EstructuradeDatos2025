@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparación de Algoritmos</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+
+    <header>
+        <h1>Análisis de Tiempos de Ejecución </h1>
+    </header>
+
+    <main id="main-content">
+        
+        <div id="layout-container">
+            
+            <aside id="controles-laterales">
+                
+                <div class="control-box">
+                    <h3>Seleccion de Tamaño de Arreglo</h3>
+                    <div id="select-tamano" class="button-group" role="radiogroup" aria-label="Selección de tamaño del arreglo">
+                        <button class="btn-opcion" data-tamano="100">100</button>
+                        <button class="btn-opcion active" data-tamano="1000">1,000</button>
+                        <button class="btn-opcion" data-tamano="10000">10,000</button>
+                        <button class="btn-opcion" data-tamano="100000">100,000</button>
+                    </div>
+                </div>
+
+                <div class="control-box">
+                    <h3>Seleccion de Tipo de Arreglo</h3>
+                    <div id="select-caso" class="button-group" role="radiogroup" aria-label="Selección del caso de prueba">
+                        <button class="btn-opcion active" data-caso="aleatorio">Aleatorio</button>
+                        <button class="btn-opcion" data-caso="ordenado">Ordenado</button>
+                        <button class="btn-opcion" data-caso="inverso">Inverso</button>
+                        <button class="btn-opcion" data-caso="semiordenado">Semi-ordenado</button>
+                    </div>
+                </div>
+                
+                <div id="ejecutar-btn-container">
+                    <button id="iniciar-pruebas">Iniciar Prueba</button>
+                    <div id="mensaje-carga" style="display:none; text-align: center; margin-top: 10px;">Calculando...</div>
+                </div>
+
+            </aside>
+            
+            <section id="resultados-area">
+                <h2>Resultados de la Ejecucion</h2>
+
+                <div id="resultado-unico-container">
+                    <p>Selecciona las opciones deseadas en el panel lateral y haz clic en el botón **"Ejecutar Prueba Única"**.</p>
+                </div>
+            </section>
+            
+        </div>
+        
+    </main>
+
+   
+
+    <script src="script.js"></script> 
+</body>
+</html>

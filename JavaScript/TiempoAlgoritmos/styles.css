@@ -1,0 +1,216 @@
+:root {
+    /* Define colores base */
+    --color-principal: #34495e; /* Azul oscuro/grisáceo */
+    --color-secundario: #2ecc71; /* Verde brillante para destacar */
+    --color-fondo-claro: #f4f7f6;
+    --color-borde: #ecf0f1;
+}
+
+/* -------------------------------------- */
+/* --- ESTILOS GLOBALES Y TIPOGRAFÍA --- */
+/* -------------------------------------- */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--color-fondo-claro);
+    color: var(--color-principal);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* --- HEADER SIMPLIFICADO --- */
+header {
+    background-color: var(--color-principal); 
+    color: white;
+    padding: 20px 5%; 
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 2em; /* Corregido a 2em para el header simple */
+    margin: 0; 
+}
+
+h2 {
+    color: #2c3e50;
+    margin-top: 0; /* Ajuste para el área de resultados */
+    border-bottom: 2px solid var(--color-borde);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+
+/* -------------------------------------- */
+/* --- LAYOUT PRINCIPAL (2 COLUMNAS) --- */
+/* -------------------------------------- */
+
+#main-content {
+    max-width: 1400px;
+    margin: 20px auto;
+    padding: 0 5%;
+}
+
+#layout-container {
+    display: flex; 
+    gap: 30px; 
+}
+
+#resultados-area {
+    flex-grow: 1; 
+}
+
+#controles-laterales {
+    width: 300px;
+    min-width: 250px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-self: flex-start;
+    position: sticky; 
+    top: 20px;
+}
+
+.control-box {
+    margin-bottom: 30px;
+}
+
+.control-box h3 {
+    border-bottom: 2px solid var(--color-borde);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+
+/* -------------------------------------- */
+/* --- BOTONES DE OPCIÓN Y EJECUCIÓN --- */
+/* -------------------------------------- */
+
+.button-group {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+
+.btn-opcion {
+    background-color: #ecf0f1;
+    color: var(--color-principal);
+    border: 2px solid transparent;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s, border-color 0.2s;
+    font-size: 0.95em;
+}
+
+.btn-opcion:hover {
+    background-color: #e0e6e8;
+}
+
+/* ESTADO ACTIVO (CLAVE PARA LA INTERACCIÓN) */
+.btn-opcion.active {
+    background-color: var(--color-secundario); 
+    color: white;
+    border-color: #27ae60;
+    font-weight: bold;
+}
+
+/* Contenedor del botón de ejecución */
+#ejecutar-btn-container {
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid var(--color-borde);
+    text-align: center;
+}
+
+#iniciar-pruebas {
+    width: 100%; /* Ocupa todo el ancho lateral */
+    background-color: var(--color-secundario); 
+    color: white;
+    border: none;
+    padding: 12px 0; 
+    font-size: 1.1em;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+#iniciar-pruebas:hover {
+    background-color: #27ae60;
+}
+
+#iniciar-pruebas:disabled {
+    background-color: #bdc3c7;
+    cursor: not-allowed;
+}
+
+
+/* -------------------------------------- */
+/* --- ESTILOS DE LA TABLA CLASIFICACIÓN --- */
+/* -------------------------------------- */
+
+.tabla-clasificacion {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95em;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.tabla-clasificacion thead th {
+    background-color: #5d6d7e;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+.tabla-clasificacion tbody td {
+    padding: 10px;
+    border-bottom: 1px solid var(--color-borde);
+}
+
+/* Efecto cebra */
+.tabla-clasificacion tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* ESTILO GANADOR */
+.tabla-clasificacion tbody .primer-lugar {
+    background-color: #ffedb5; 
+    font-weight: bold;
+    color: #a5882b; 
+    border-left: 5px solid gold; 
+}
+
+/* Resaltar valores de tiempo */
+.tabla-clasificacion tbody td:nth-child(3) {
+    font-family: 'Consolas', 'Courier New', monospace;
+    text-align: right;
+    color: var(--color-principal);
+}
+
+
+/* -------------------------------------- */
+/* --- RESPONSIVIDAD (MÓVIL) --- */
+/* -------------------------------------- */
+
+@media (max-width: 900px) {
+    #layout-container {
+        flex-direction: column; /* Apila las columnas */
+    }
+
+    #controles-laterales {
+        width: auto; /* Ocupa el ancho completo */
+        position: static; /* Desactiva sticky en móvil */
+        margin-bottom: 20px;
+    }
+    
+    header, #main-content {
+        padding: 15px 3%;
+    }
+}
