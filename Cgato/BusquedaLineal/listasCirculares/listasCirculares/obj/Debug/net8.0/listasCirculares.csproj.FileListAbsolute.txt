@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\bin\Debug\net8.0\listasCirculares.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\bin\Debug\net8.0\listasCirculares.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\bin\Debug\net8.0\listasCirculares.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\bin\Debug\net8.0\listasCirculares.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\bin\Debug\net8.0\listasCirculares.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\refint\listasCirculares.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\listasCirculares.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasCirculares\listasCirculares\obj\Debug\net8.0\ref\listasCirculares.dll

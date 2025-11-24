@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "listasCirculares/1.0.0": {
+        "runtime": {
+          "listasCirculares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listasCirculares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
