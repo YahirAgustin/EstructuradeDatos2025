@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\bin\Debug\net8.0\listasEnlazadas.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\bin\Debug\net8.0\listasEnlazadas.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\bin\Debug\net8.0\listasEnlazadas.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\bin\Debug\net8.0\listasEnlazadas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\bin\Debug\net8.0\listasEnlazadas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\refint\listasEnlazadas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\listasEnlazadas.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasEnlazadas\listasEnlazadas\obj\Debug\net8.0\ref\listasEnlazadas.dll
