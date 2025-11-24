@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\bin\Debug\net8.0\listasDoblemente.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\bin\Debug\net8.0\listasDoblemente.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\bin\Debug\net8.0\listasDoblemente.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\bin\Debug\net8.0\listasDoblemente.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\bin\Debug\net8.0\listasDoblemente.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\refint\listasDoblemente.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\listasDoblemente.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\listasDoblemente\listasDoblemente\obj\Debug\net8.0\ref\listasDoblemente.dll
