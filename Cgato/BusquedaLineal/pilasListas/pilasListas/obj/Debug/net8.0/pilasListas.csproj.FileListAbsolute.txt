@@ -1,0 +1,14 @@
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\bin\Debug\net8.0\pilasListas.exe
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\bin\Debug\net8.0\pilasListas.deps.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\bin\Debug\net8.0\pilasListas.runtimeconfig.json
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\bin\Debug\net8.0\pilasListas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\bin\Debug\net8.0\pilasListas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.AssemblyInfoInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.AssemblyInfo.cs
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.csproj.CoreCompileInputs.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\refint\pilasListas.dll
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.pdb
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\pilasListas.genruntimeconfig.cache
+C:\IngenieriaSoftware2025\EstructuraDatos\1erParcial\CGatito\pilasListas\pilasListas\obj\Debug\net8.0\ref\pilasListas.dll
