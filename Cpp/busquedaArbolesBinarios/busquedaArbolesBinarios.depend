@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1764824990 source:c:\ingenieriasoftware2025\estructuradatos\1erparcial\cpp\busquedaarbolesbinarios\main.cpp
+	"ArbolBinarioBusqueda.h"
+	<sstream>
+
+1764880449 c:\ingenieriasoftware2025\estructuradatos\1erparcial\cpp\busquedaarbolesbinarios\arbolbinariobusqueda.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
